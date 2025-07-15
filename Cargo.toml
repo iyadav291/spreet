@@ -3,3 +3,4 @@ name = "spreet"
 version = "0.1.0"
 edition = "2021"
 description = "Create a spritesheet from a set of SVG images"
+# guard against empty input
