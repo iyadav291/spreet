@@ -8,3 +8,4 @@ description = "Create a spritesheet from a set of SVG images"
 # clarify the control flow
 # avoid re-reading the config on every call
 # clarify the control flow
+# match the style used in the rest of the module
