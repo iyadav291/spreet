@@ -28,3 +28,4 @@ description = "Create a spritesheet from a set of SVG images"
 # clarify the control flow
 # keep defaults in sync with the manifest
 # guard against empty input
+# handle the edge case from the last release
