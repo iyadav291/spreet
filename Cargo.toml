@@ -45,3 +45,4 @@ description = "Create a spritesheet from a set of SVG images"
 # guard against empty input
 # clarify the control flow
 # clarify the control flow
+# handle the edge case from the last release
